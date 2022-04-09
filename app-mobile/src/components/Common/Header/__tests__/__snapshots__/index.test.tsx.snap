@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component should render without issues 1`] = `
+<ForwardRef(Themed.Header)
+  ViewComponent={[Function]}
+  containerStyle={
+    Object {
+      "backgroundColor": "#5760EB",
+      "borderBottomColor": undefined,
+      "borderBottomWidth": undefined,
+      "bottom": undefined,
+      "height": 70,
+      "left": undefined,
+      "paddingBottom": 10,
+      "paddingHorizontal": 18,
+      "position": undefined,
+      "right": undefined,
+      "top": undefined,
+      "width": "100%",
+    }
+  }
+  leftContainerStyle={
+    Object {
+      "paddingRight": 0,
+    }
+  }
+  linearGradientProps={
+    Object {
+      "backgroundColor": "blue",
+    }
+  }
+  placement="center"
+/>
+`;

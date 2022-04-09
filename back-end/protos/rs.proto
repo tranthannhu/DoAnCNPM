@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+package Recommendation;
+
+service Recommendation {
+    rpc GetItemRecommended(UserRequest) returns (ItemResponse) {};
+    rpc TrackChange(Check) returns (Check) {};
+}
+
+
+//the message contain userId request
+message UserRequest {
+    string id = 1;
+}
+
+//the message response contain list of itemIds 
+message ItemResponse {
+    repeated string itemIds = 1;
+}
+
+message Check {
+    string message = 1;
+}

@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown Component should render without issues 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "zIndex": 10,
+      }
+    }
+  >
+    <TouchableWithoutFeedback
+      onPress={[Function]}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "borderRadius": 10,
+              "flexDirection": "row",
+              "height": 50,
+              "justifyContent": "space-between",
+              "paddingHorizontal": 15,
+            },
+            Object {
+              "backgroundColor": "#dee2e6",
+            },
+            undefined,
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "justifyContent": "center",
+              "width": "90%",
+            }
+          }
+        >
+          <Text
+            numberOfLines={1}
+            style={
+              Array [
+                Object {
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#121212",
+                  "fontWeight": "bold",
+                },
+              ]
+            }
+          >
+            Dự án Complex Quy Nhon
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              false,
+              Object {
+                "justifyContent": "center",
+              },
+            ]
+          }
+        >
+          <Icon
+            allowFontScaling={false}
+            color="#121212"
+            name="chevron-down"
+            size={24}
+          />
+        </View>
+      </View>
+    </TouchableWithoutFeedback>
+  </View>
+</View>
+`;

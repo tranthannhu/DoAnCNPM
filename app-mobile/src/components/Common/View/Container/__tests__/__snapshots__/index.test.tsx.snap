@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Component should render without issues 1`] = `
+<QuickView
+  column={true}
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "flex": 1,
+    }
+  }
+  touchableComponent="TouchableOpacity"
+/>
+`;

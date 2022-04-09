@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component should render without issues 1`] = `
+<ForwardRef(Themed.Button)
+  buttonStyle={
+    Object {
+      "backgroundColor": "#5760EB",
+      "borderColor": "#ffffff",
+      "borderRadius": 20,
+      "borderWidth": 0,
+      "height": undefined,
+      "width": undefined,
+    }
+  }
+  containerStyle={
+    Object {
+      "borderRadius": 20,
+      "margin": 0,
+      "marginBottom": undefined,
+      "marginHorizontal": 0,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": 5,
+      "padding": 0,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+    }
+  }
+  icon={
+    Object {
+      "color": "#ffffff",
+      "size": 20,
+      "type": "material-community",
+    }
+  }
+  iconContainerStyle={Object {}}
+  titleStyle={
+    Object {
+      "color": "#ffffff",
+      "fontSize": 16,
+      "fontWeight": "600",
+      "marginLeft": -10,
+      "marginRight": 0,
+      "paddingHorizontal": 5,
+    }
+  }
+/>
+`;

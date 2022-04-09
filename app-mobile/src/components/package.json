@@ -1,0 +1,6 @@
+{
+  "name": "@components",
+  "devDependencies": {
+    "@types/react-native-video": "^5.0.1"
+  }
+}

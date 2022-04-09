@@ -1,0 +1,76 @@
+{
+  "exception": {
+    "400": "Dữ liệu không  hợp lệ",
+    "401": "Số điện thoại hoặc mật khẩu không chính xác",
+    "403": "Tài khoản hiện tại không có quyền truy cập vào trang này",
+    "404": "Nội dung hiện không có sẵn. Vui lòng thử lại sau",
+    "500": "Đã có lỗi xảy ra. Vui lòng thử lại sau",
+    "409": "Email đã tồn tại"
+  },
+  "common": {
+    "theme": "Chủ đề",
+    "language": "Ngôn ngữ"
+  },
+  "bottom_tab": {
+    "home": "Trang chủ",
+    "saved": "Lưu",
+    "mail": "Hộp thư",
+    "more": "Khác",
+    "myjob": "Việc làm",
+    "explore": "Tin tức"
+  },
+  "header": {
+    "setting": "Cài đặt",
+    "example": "Danh sách các component"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "login_mobile": "Đăng nhập với SĐT",
+    "input_email_address": "Nhập Email *",
+    "input_password": "Mật khẩu *",
+    "input_first_name": "Tên *",
+    "input_last_name": "Họ *",
+    "input_user": "Tên người dùng *",
+    "input_email": "Email *",
+    "forgot": "Quên mật khẩu?",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "or": "hoặc",
+    "facebook": "Đăng nhập với Facebook",
+    "google": "Đăng nhập với Google",
+    "have_account": "Bạn chưa có tài khoản?",
+    "already_account": "Đã có tài khoản?",
+    "description_forgot": "Nhập Email. Chúng tôi sẽ gửi hướng dẫn khôi phục mật khẩu qua Email của bạn",
+    "button_login_mobile": "Nhận mã",
+    "title_verify": "Xác thực tài khoản của bạn",
+    "get_back_verify": "Gửi lại mã OTP?",
+    "send_verify": "Gửi",
+    "button_verify": "Xác nhận ngay bây giờ",
+    "fill_verify_otp": "Vui lòng xác nhận OTP",
+    "success_verify_otp": "Đã xác nhận",
+    "resend_otp": "Gửi lại mã OTP",
+    "checked": "lưu đăng nhập ",
+    "create": "Chưa có tài khoản? đăng kí tại đây",
+    "terms": "Tôi đồng ý với điều khoản và điều kiện"
+  },
+  "profile": {
+    "experience": "kinh nghiệm làm việc",
+    "skill": "kỹ năng chuyên môn của bạn"
+  },
+  "home": {},
+  "validator": {
+    "email": "E-Mail không đúng định dạng!",
+    "password": "Mật khẩu phải chứa từ 6 - 20 ký tự!",
+    "first_name": "Tên không được chứa ký tự đặc biệt!",
+    "last_name": "Họ không được chứa ký tự đặc biệt!",
+    "username": "Username chỉ được chứa chữ & số từ 8 đên 20 ký tự!",
+    "password_old": "Vui lòng nhập mật khẩu cũ",
+    "password_confirm": "Mật khẩu không khớp!",
+    "phone": "Số điện thoại không hợp lệ!",
+    "user_email": "Vui lòng nhập email hoặc username",
+    "name": "Vui lòng nhập tên!",
+    "message": "Vui lòng nhập tin nhắn!",
+    "title": "Vui lòng nhập tiêu đề!",
+    "content": "Vui lòng nhập nội dung!"
+  }
+}

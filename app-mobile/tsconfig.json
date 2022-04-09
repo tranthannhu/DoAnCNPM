@@ -1,0 +1,26 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "./",                          /* Base directory to resolve non-absolute module names. */
+    "paths": {
+      "@app/*": ["./src/app/*"],
+      "@config/*": ["./src/core/config/*"],
+      "@locales": ["./src/core/locales/index.ts"],
+      "@locales/*": ["./src/core/locales/*"],
+      "@contents/*": ["./src/contents/*"],
+      "@themes": ["./src/core/themes/index.ts"],
+      "@themes/*": ["./src/core/themes/*"],
+      "@utils/*": ["./src/core/utils/*"],
+      "@validators": ["src/core/content/example/*s"],
+      "@validators/*": ["./src/core/validators"],
+      "@core/*": ["./src/core/*"],
+      "@fonts/*": ["./src/assets/fonts/*"],
+      "@images/*": ["./src/assets/images/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@components": ["./src/components/index.ts"],
+      "@components/*": ["./src/components/*"],
+      "@src/*": ["./src/*"]
+    },        
+  }
+}

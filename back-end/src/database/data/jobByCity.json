@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Senior Web Developers (Golang)",
+    "logoImage": "https://cdn.itviec.com/employers/nimble/logo/w170/z64r4BZoX7KGsRmGjpDiSvEB/nimbl3-logo.png",
+    "address": "WeWork, Lim Tower 3, 03-109, 29A Nguyễn Đình Chiểu, Đa Kao Ward, District 1, Ho Chi Minh",
+    "tags": ["Golang", "Ruby on Rails", "PHP"],
+    "description": [
+      "<ul><li>Lead a team of developers in a project squad. We have a wide range of project sizes.</li><li>Decide which technologies are going to be used for front-end, back-end and define the overall architecture.</li><li>Work closely with the Product Owner to make sure the backlog is efficiently planned and occasionally assist in technical discussions with clients. Most of the client interfacing is done by the Product Owner.</li><li>Write clean, composable, and maintainable code as you develop world-class products for our clients.</li><li>Write automated tests to build and maintain the product we build for our clients.</li><li>Do code reviews with your squad members.</li><li>Learn new technologies languages like Ruby, Go, or Elixir, and techniques so that you are able to adapt to the evolving needs of our clients.</li><li>Knowledge sharing through team rituals.</li><li>Collaborate with other team members to define the internal processes and initiatives to help the company accomplish its mission. Our company manifesto has been written by the whole team.</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5 years or more of professional web development experience</strong>. At least 3 years of experience specifically on Go. Experience in other stacks such as Ruby and JavaScript is a plus.</li><li><strong>Proven ability to lead web projects end-to-end</strong> from front-end/back-end architecture to implementation and deployment.</li><li>A \"can do attitude\" and ownership mentality.</li><li>At least basic experience with a modern JavaScript framework like Vue, React JS/Redux, or Angular JS.</li><li>Advanced experience in writing automated tests for web applications.</li><li>You believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability, security and performance.</li><li>Confidence in communicating in English.</li></ul>"
+    ]
+  },
+  {
+    "name": "Mid/Sr .NET Developer (MVC5, SQL) ~$1800",
+    "logoImage": "https://cdn.itviec.com/employers/saigon-technology-solutions/logo/w170/zyi2qHzoGojagrQtf4cyyFtm/saigon-technology-solutions-logo.png",
+    "address": "2 Nguyen The Loc, Ward 12, Tan Binh, Ho Chi Minh",
+    "tags": [".NET", "MVC", "SQL"],
+    "description": [
+      "<ul><li><strong>Work directly with US/ Europe client </strong>to clarify requirements</li><li>Assist with application architecture design and implementation.</li><li>Adhere to and recommend improvements to project coding standards</li><li>Work in a team environment with shared code; disciplined use of source code control and process documentation.</li><li>Solve technical problems</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Have at least <strong>4 years </strong>of experience in <strong>.NET</strong> projects</li><li>Web App/ Restful API, SPA</li><li><strong>MVC 5</strong>, Web API 2.2, Entity Framework</li><li><strong>.NET Core 2.0+</strong>, Entity Framework Core 2+</li><li><strong>SQL</strong> Server 2012+</li><li>Windows Server 2012+</li><li>HTML 5, CSS3, Bootstrap 3 or 4</li><li>Dependency Injection and Inversion (in SOLID)</li></ul>",
+      "<ul><li>Angular2+, React JS</li><li>Microsoft Azure / Amazon</li><li>Algorithm knowledge</li><li>Leadership skill is a plus</li></ul>",
+      "<ul><li>Good verbal/non-verbal English</li><li>Good at analyzing &amp; problem-solving skill</li><li>Good teamwork, generates enthusiasm among team members</li></ul>"
+    ]
+  },
+  {
+    "name": "Mid/Sr Java Developer - Upto $1600 NET",
+    "logoImage": "https://cdn.itviec.com/employers/saigon-technology-solutions/logo/w170/zyi2qHzoGojagrQtf4cyyFtm/saigon-technology-solutions-logo.png",
+    "address": "69 Quang Trung, Hai Chau, Da Nang",
+    "tags": ["Java", "AWS", "Spring"],
+    "description": [
+      "<ul><li>Work directly with Australia client to clarify requirements</li><li>Design application architecture and implementation.</li><li>Support to train mid and junior level developers.</li><li>Solve difficult technical problems</li></ul>"
+    ],
+    "content": [
+      "<ul><li>From 3 years of experience in Java Web Application projects</li><li>Strong knowledge with Java Core, ORM</li><li>Experience working with Play Framework, Spring MVC</li><li>Strong knowledge with DBMS (especially MySQL): Can write complex DML queries, stored procedures, functions</li><li>Experience with NoSQL (Casandra)</li><li>Experience working with data migrations tools (Flyway is a plus)</li><li>Experience with HTML/CSS/JavaScript</li><li>Basic knowledge with NodeJS, AngularJS 1</li></ul>",
+      "<ul><li>Experience with Docker, Kubernetes</li><li>Experience with CI/CD tools</li><li>Experience with AWS: S3, RDS, EC2, SES, Route53, DynamoDB</li></ul>"
+    ]
+  },
+  {
+    "name": "Jr.Test Engineer (Tester,QA/QC),Da Nang",
+    "logoImage": "https://cdn.itviec.com/employers/kms-technology/logo/w170/gjCnVTfqe1uPf7ypqStLf9TV/kms-technology-logo.png",
+    "address": "2/9 Street, Hai Chau, Da Nang",
+    "tags": ["Tester", "QA QC", "Fresher Accepted"],
+    "description": [
+      "<ul><li>Understand domain knowledge &amp; client testing process clearly to implement all testing activities independently and effectively</li><li>Work directly with client and project team on daily assignments:<ul><li>Join daily/weekly meeting with client</li><li>Review requirements, specifications and test plans to provide timely and meaningful feedback</li><li>Estimate testing effort for assigned tasks</li><li>Develop, maintain and execute manual test cases/test scripts</li><li>Report, track, and monitor defects by the defect tracking system</li><li>Prepare and review test documentation</li><li>Collect data and report testing status</li><li>Analyze and address issues relating to testing quality</li><li>Coordinate work activities to deliver products in high quality and on time</li></ul></li></ul>"
+    ],
+    "content": [
+      "<ul><li>At least 1-year experience in manual testing for web-based and standalone applications: create &amp; implement test cases/script based on the requirement, estimate testing activities...</li><li>Able to perform all kinds of testing effectively &amp; independently</li><li>Basic knowledge of the software testing process, testing methodologies, and database skills</li><li>Intermediate English communication</li><li>Positive attitude and be able to collaborate effectively across teams</li><li>Good knowledge and experience in automation tests is a plus</li></ul>"
+    ]
+  },
+  {
+    "name": "Software Development Project Manager",
+    "logoImage": "https://cdn.itviec.com/employers/lg-development-center-vietnam/logo/w170/kb3U11PfmJFtdPgCEMaUJMNn/lg-development-center-vietnam-logo.png",
+    "address": "DITP Tower, Nam O 1, Lien Chieu, Da Nang, Lien Chieu, Da Nang",
+    "tags": ["Project Manager", "C++"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "Technical/Solution Architect(Danang-HCM)",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "F6 Phi Long Building, 52 Nguyen Van Linh street, Hai Chau, Da Nang",
+    "tags": ["Software Architect", "Java", ".NET"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "PHP Tech Lead (Laravel/Symfony)",
+    "logoImage": "https://cdn.itviec.com/employers/nfq-asia/logo/w170/wSqDe722rToJQ6oXH3Yc8QJZ/nfq-asia-8bit-rockstars-logo.png",
+    "address": "72 Lê Thánh Tôn, District 1, Ho Chi Minh",
+    "tags": ["PHP", "JavaScript", "ReactJS"],
+    "description": [
+      "<ul><li>You will be joining an <strong>awesome startup team</strong> to build cool applications that serve <strong>millions of users</strong>, from idea to production.</li><li>As our customers are typically ambitious foreign startups, you will have a chance to <strong>improve your English</strong>, learn about startup culture and product mindset along the way. If you want to make a great <strong>impact on the world,</strong> this is your chance now.</li><li>Managing full lifecycle customer projects with <strong>Agile methods</strong>.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seek for solution improvement.</li><li>Design, develop, test internal REST API</li><li>Design and implement scalable and robust applications</li><li>Analyze functional requirements and creation of software design</li><li>Participate in code and design reviews to maintain our high development standards</li><li>Work closely with the infrastructure team in building and scaling back-end services as well as performing root-cause analysis investigations</li><li>Write API documentation for better communication with front-end developers</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5+ years</strong> of overall software development experience, with an emphasis on web applications and back-end technologies.</li><li>Work experience in <strong>PHP </strong>(strongly preferred with Symfony)</li><li>Proficient understanding of code versioning tools (Git is preferred)</li><li>Deep knowledge of web frameworks</li><li>Experience in unit testing frameworks</li><li>Experience in CI/CD methodologies</li><li><strong>2 years of experience in leading engineering teams</strong></li><li>Good at English communication</li></ul>",
+      "<ul><li>Experience in these business domains: hotel booking, car rental, eCommerce platform</li><li>Proficiency in database design &amp; SQL skills</li><li>Experience in REST API development</li><li>Knowledge on Realtime Communication (Pusher, PubNub, FireBase)</li><li>Strong understanding of system performance and scaling</li></ul>"
+    ]
+  },
+  {
+    "name": "Sr Front-end Dev (Javascript, ReactJS)",
+    "logoImage": "https://cdn.itviec.com/employers/nfq-asia/logo/w170/wSqDe722rToJQ6oXH3Yc8QJZ/nfq-asia-8bit-rockstars-logo.png",
+    "address": "72 Lê Thánh Tôn, District 1, Ho Chi Minh",
+    "tags": ["JavaScript", "ReactJS", "VueJS"],
+    "description": [
+      "<ul><li>Managing full lifecycle customer projects with Agile methods.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seeking for solution improvement.</li><li>You will create, test, maintain user-friendly / mobile-friendly web application</li><li>Optimizing web application for maximum speed</li><li>Building reusable components for future use</li><li>Collaborating with back-end developers and web designers to improve usability</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>3+ years</strong> of overall software development experience, with an emphasis on <strong>web applications</strong> and <strong>front-end</strong> technologies</li><li>Proficient understanding of code versioning tools (<strong>Git</strong> is preferred)</li><li>In-depth understanding of in<strong> HTML/CSS, Javascript</strong></li><li>Experience in front-end frameworks (e.g. Angular, React, Vue)</li><li>Experience in unit testing frameworks (e.g. Ava, Jest, Mocha)</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Experience in front-end tools (e.g. Grunt, Gulp, Webpack)</li><li>Strong knowledge of development based on REST API</li><li>Experience in GIS (e.g. OpenLayers)</li><li>Knowledge of Realtime Communication (Pusher, PubNub, FireBase)</li><li>In-depth understanding of the entire web development process (design, development and deployment)</li><li>Good at English communication</li></ul>"
+    ]
+  },
+  {
+    "name": "Shopify Expert (Ruby, JavaScript)",
+    "logoImage": "https://cdn.itviec.com/employers/nfq-asia/logo/w170/wSqDe722rToJQ6oXH3Yc8QJZ/nfq-asia-8bit-rockstars-logo.png",
+    "address": "72 Lê Thánh Tôn, District 1, Ho Chi Minh",
+    "tags": ["Ruby", "MySQL", "JavaScript"],
+    "description": [
+      "<ul><li>Work with super nice clients, make sure that we understand their needs, and deliver their dreams.</li><li>As a central point of contact with our foreign clients, you will have a significant influence on our company’s success by using your excellent English communication skills, your head, and common sense.</li><li>Collaborate with clients/business users to research and validate functional requirements</li><li>Collaborate with team members throughout the Software Development Life Cycle process using Agile methodologies for requirements gathering, feedback on proposed designs and models</li><li>Develop and maintain E-commerce web applications for the global market.</li><li>Proven leadership skills. Your management skills and technical depth allows you to develop and mentor others as well as build credibility with your team while executing broader engineering strategies.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Strong <strong>Ruby</strong> experience.</li><li><strong>2+ years</strong> of experience in <strong>front-end</strong> technologies including, but not limited to, JavaScript, AJAX, HTML, CSS, SASS, XML.</li><li>Have strong experience working with MySQL, Memcached, and Redis.</li><li><strong>2+ years</strong> of experience developing within the <strong>Shopify platform</strong> and <strong>Shopify apps</strong>.</li><li>Experience with Shopify’s theming system and Liquid templating.</li><li>Experience with implementing/debugging 3rd party Shopify apps as well as creating custom solutions from scratch if necessary.</li><li>Superb troubleshooting &amp; debugging skills with browser console and external tools.</li><li>A disciplined approach to writing clean, readable code and quality assurance</li><li>Familiarity with distributed and highly available systems at scale.</li><li>A strong technical foundation. You feel comfortable diving into the code and interacting with developers at all levels of seniority.</li><li>A commitment and drive for quality, technical excellence, and results.</li></ul>"
+    ]
+  },
+  {
+    "name": "Backend Developer (Java/Golang/NodeJS)",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "3 Quang Trung Software City, District 12, Ho Chi Minh",
+    "tags": ["NodeJS", "Golang"],
+    "description": [
+      "<ul><li>Work as key developer and/or team leader in projects.</li><li>Develop software applications in partnership with business analysts and technical architects.</li><li>Design, code, test and implement multiple projects to address departmental requirements.</li><li>Work with Project Managers to determine needs and apply/customize appropriate technologies to deliver solutions.</li><li>Develop training manuals.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Bachelor degree or up majoring in software engineer, computer science.</li><li>2 years of experience in software development.</li><li>Backend service experience in languages such as Java, Node.js, Golang, or similar.</li><li>Have knowledge of OOP, RESTful, Design Patterns.</li><li>Experience with Prometheus/Elastic, Kibana/Grafana, Ansible and Cloud Infrastructure is a plus.</li><li>Open-minded and keen to learn new thing.</li><li>Self-motivated with a positive “can-do” attitude and teamwork.</li><li>Well-disciplined, and responsible for the delivery of task.</li><li>Preferably to be able to communicate in English.</li></ul>"
+    ]
+  },
+  {
+    "name": "Angular Developer",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "3 Quang Trung Software City, District 12, Ho Chi Minh",
+    "tags": ["Angular", "AngularJS", "ReactJS"],
+    "description": [],
+    "content": [
+      "<ul><li>2 years Experience with Angular</li><li>BS degree in Computer Science or Engineering</li><li>Strong expertise with HTML, CSS, and writing cross-browser compatible code.</li><li>Good understanding of AJAX and JavaScript Dom manipulation Techniques</li><li>Experience with RESTful services</li></ul>"
+    ]
+  },
+  {
+    "name": "[DA NANG] Senior Java Software Engineer",
+    "logoImage": "https://cdn.itviec.com/employers/lg-development-center-vietnam/logo/w170/kb3U11PfmJFtdPgCEMaUJMNn/lg-development-center-vietnam-logo.png",
+    "address": "DITP Tower, Nam O 1, Lien Chieu, Da Nang, Lien Chieu, Da Nang",
+    "tags": ["Java", "OOP"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "[DA NANG] C/C++ Developer - Up To 2,000$",
+    "logoImage": "https://cdn.itviec.com/employers/lg-development-center-vietnam/logo/w170/kb3U11PfmJFtdPgCEMaUJMNn/lg-development-center-vietnam-logo.png",
+    "address": "DITP Tower, Nam O 1, Lien Chieu, Da Nang, Lien Chieu, Da Nang",
+    "tags": ["C++", "Embedded"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "Art Director (3D) – AAA Next Gen",
+    "logoImage": "https://cdn.itviec.com/employers/ubisoft/logo/w170/h2KNqoC1c2gPK4w9ghn4F6E9/0.png",
+    "address": "Luxury Buildinng - Floor 6, 205 Tran Phu, Phuoc Ninh, Hai Chau, Da Nang",
+    "tags": ["Games", "Unity"],
+    "description": [
+      "<ul><li>Work with the producer and core creative team to define the vision of a game.</li><li>Partner with lead artists to develop the artistic tone (set the ambiance; explore locations, key moments, emotional contrasts, characters, etc.).</li><li>Create the visual style guide of a game (put together mood boards, references, and descriptions).</li><li>Coordinate and oversee the art team throughout production.</li><li>Find balance between artistic aspects and technical constraints.</li><li>Provide leadership and constructive feedback to achieve quality.</li><li>Collaborate with members of interdependent teams in all stages of development.</li><li>Participate in recruitment to build the artistic team &amp; foster their growth.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>A college diploma in Fine Arts or equivalent (undergraduate degree an asset)</li><li>At least 5 years of leadership experience in the video game industry</li><li>Must have shipped a minimum of 1-2 AAA games</li><li>Knowledge of Photoshop and 3D software (e.g. 3DS Max)</li><li>Can produce assets like marketing key arts, concept arts, or other data linked to the production</li><li>Understanding of art fundamentals and artistic culture</li><li>A highly creative, collaborative, and empathetic spirit</li><li>Excellent problem-solving, organizational, communication, interpersonal, presentation, and mentorship skills</li><li>Ability to accept feedback and adapt to it.</li></ul>"
+    ]
+  },
+  {
+    "name": "Lead Unity Developer - AAA next gen",
+    "logoImage": "https://cdn.itviec.com/employers/ubisoft/logo/w170/h2KNqoC1c2gPK4w9ghn4F6E9/0.png",
+    "address": "Luxury Buildinng - Floor 6, 205 Tran Phu, Phuoc Ninh, Hai Chau, Da Nang",
+    "tags": ["Unity", "C#", "Games"],
+    "description": [
+      "<ul><li>Create, debug, maintain, and optimize the game’s engine, editor, and related tools used for the game’s development.</li><li>Offer technical solutions, innovate and improve the quality of implementation, performance, and usability of the editor, tools, and toolchain as a whole</li><li>Keep the existing engine and tools up to date by the latest changes occurred in the development pipeline (e.g. new SDKs or middleware versions)</li><li>Implement new game features and services in close partnership with the content team of the project</li><li>Improve existing game features based on design requests</li><li>Be involved with rapid prototyping of new gameplay features</li><li>Develop the client-side components for highly scalable multiplayer games</li><li>Write technical design documents, for milestones and internal use.</li><li>Provide guidance/mentorship to other developers on the team</li><li>Work with project management to plan task scheduling/resource assignment/risk evaluation.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>5+ years professional experience in game development, of which one project already served in lead capacity.</li><li>3+ of hands-on experience with Unity3D engine (editor and scripting)</li><li>Solid knowledge of C# and its related structures, design patterns and methodologies</li><li>Good knowledge of gameplay programming, AI techniques, etc.</li><li>Experience in cross-platform development and its associated issues, complications, platforms, pipelines and solutions. (Console, PC, mobile)</li><li>Solid experience working with high-end (HD) visuals including lighting, shaders (HLSL), animation trees, particles, etc.</li><li>Availability to work with new APIs and concepts</li><li>Experience using HTTP/REST APIs to communicate with backend server a plus</li><li>Solid understanding of 3D math (matrices, vectors, quaternions)</li><li>Able and interested to work a “rapid iteration” development environment</li><li>Able to communicate effectively with both technical and non-technical parties</li></ul>"
+    ]
+  },
+  {
+    "name": "Frontend Developer (JavaScript, ReactJS)",
+    "logoImage": "https://cdn.itviec.com/employers/mgm-technology-partners-vietnam/logo/w170/8G6KY8J1s2Xrx8mCAVADn9va/mgm-technology-partners-vietnam-logo.png",
+    "address": "7 Phan Chau Trinh, Hải Châu 1, Hai Chau, Da Nang",
+    "tags": ["JavaScript", "HTML5", "ReactJS"],
+    "description": [
+      "<ul><li>Work for international customers</li><li>Work with colleagues from Germany, France, the Czech Republic and the US</li><li>Be responsible for the success of your project</li><li>Design, implement and test web applications</li><li>Collaborate on requirement analysis and specifications</li><li>Share knowledge and experience with your colleagues</li><li>Working time: 40 hours / week, flexible</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Strong skills in frontend development</li><li>TypeScript, ReactJS, Redux is an advantage</li><li>Understanding of software development tools, processes and architecture</li><li>Degree in engineering or natural sciences (university or technical college)</li><li>Very good English both written and spoken</li><li>Sense of responsibility, communication skills and team spirit</li><li>Willingness to learn and build a deep understanding</li><li>A passion for software development, new trends and technologies in IT</li><li>From 2+ years of professional experience in international software projects</li></ul>"
+    ]
+  },
+  {
+    "name": "Client Manager",
+    "logoImage": "https://cdn.itviec.com/employers/dimension-data/logo/w170/18DENXeFLQe1cER66qzifa46/NTT_Horizontal_RGB.png",
+    "address": "106 Centre Point Building, Phu Nhuan, Ho Chi Minh",
+    "tags": ["Networking", "System Admin"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "PHP Developer ( HTML, CSS )",
+    "logoImage": "https://cdn.itviec.com/employers/aura-space/logo/w170/UbFmuDNyhHEyTdmhF4WjFW5J/cong-ty-co-phan-dau-tu-thuong-mai-aura-space-viet-nam-5fc1b433c395a.jpg",
+    "address": "117 Hải Hồ - Phường Thanh Bình - Quận Hải Châu, Hai Chau, Da Nang",
+    "tags": ["PHP", "HTML5", "CSS"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "Frontend Reactjs Engineer (US Startup)",
+    "logoImage": "https://cdn.itviec.com/employers/everfit/logo/w170/SdEDPLHtyor24MHwnZztHcAt/Icon.png",
+    "address": "Tòa nhà Vĩnh Trung Plaza Tầng 10, 255 257 Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng, Thanh Khe, Da Nang",
+    "tags": ["ReactJS", "CSS", "NodeJS"],
+    "description": [
+      "<ul><li>Build new features and improve current features on our web platform</li><li>Follow the product roadmap and product specs guideline</li><li>Operate effectively on Jira</li><li>Operate effectively on Bitbucket</li><li>Collaborate closely with the Product team and Engineering team Members to ship great products</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Strong written communication skills in English</li><li>Good English speaking Skill (You will get better with us)</li></ul>"
+    ]
+  },
+  {
+    "name": "Technical Architect (PHP, JavaScript)",
+    "logoImage": "https://cdn.itviec.com/employers/nfq-asia/logo/w170/wSqDe722rToJQ6oXH3Yc8QJZ/nfq-asia-8bit-rockstars-logo.png",
+    "address": "72 Lê Thánh Tôn, District 1, Ho Chi Minh",
+    "tags": ["PHP", "Software Architect", "JavaScript"],
+    "description": [
+      "<ul><li>As a Technical Architect you’ll work as part of a team to deliver innovative, cost-effective and efficient IT solutions to an organization.</li><li>You will be responsible for driving technology strategy, building out the technology team of one of our main competencies (PHP, NodeJS, Javascript, Cloud Computing) and delivering on the shared growth vision. Deep understanding of Tech and Hands-On Attitude are a must (yes, sometimes you will need to jump in and show the boys how to code…)</li><li>You’ll be working with cutting edge frameworks, automation, and use the latest technologies for error tracking, reporting, and testing, with a high level of test coverage to maintain high-quality products that our clients use to run their entire business. We take pride in clean code built for our highly scalable systems. We work in small teams for clients from all around the world, follow agile work methods, and use continuous integration and delivery methodologies to move fast without sacrificing quality.</li><li>Your task is to help firefight problems in the various teams as well as educate the teams to avoid them at all.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seeking for solution improvement. </li><li>Work closely with the DevOps team in building and scaling back-end services as well as performing root-cause analysis investigations.</li><li>Report directly to the Head of Engineering.</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5+ years</strong> of overall software development experience, with an emphasis on web applications, both <strong>Frontend (ReactJS / VueJS)</strong>, <strong>Backend (PHP / Python / RoR) </strong>and<strong> DevOps.</strong></li><li>Deep knowledge of web frameworks and Cloud technologies.</li><li>Experience in Automation Test frameworks</li><li>Experience in <strong>CI/CD methodologies</strong></li><li><strong>2 years of experience working as a Technical Architect.</strong></li><li>Good at verbal and written in English</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Work experience in <strong>Symfony, Elasticsearch, React</strong> (strongly preferred)</li><li>Proficiency in database design &amp; SQL skills</li><li>Knowledge on Real Time Communication (Pusher, PubNub, FireBase)</li><li>Strong understanding of system performance and scaling</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Business Analyst (English, Agile)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["Business Analyst", "Agile", "English"],
+    "description": [
+      "<ul><li>As a Technical Architect you’ll work as part of a team to deliver innovative, cost-effective and efficient IT solutions to an organization.</li><li>You will be responsible for driving technology strategy, building out the technology team of one of our main competencies (PHP, NodeJS, Javascript, Cloud Computing) and delivering on the shared growth vision. Deep understanding of Tech and Hands-On Attitude are a must (yes, sometimes you will need to jump in and show the boys how to code…)</li><li>You’ll be working with cutting edge frameworks, automation, and use the latest technologies for error tracking, reporting, and testing, with a high level of test coverage to maintain high-quality products that our clients use to run their entire business. We take pride in clean code built for our highly scalable systems. We work in small teams for clients from all around the world, follow agile work methods, and use continuous integration and delivery methodologies to move fast without sacrificing quality.</li><li>Your task is to help firefight problems in the various teams as well as educate the teams to avoid them at all.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seeking for solution improvement. </li><li>Work closely with the DevOps team in building and scaling back-end services as well as performing root-cause analysis investigations.</li><li>Report directly to the Head of Engineering.</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5+ years</strong> of overall software development experience, with an emphasis on web applications, both <strong>Frontend (ReactJS / VueJS)</strong>, <strong>Backend (PHP / Python / RoR) </strong>and<strong> DevOps.</strong></li><li>Deep knowledge of web frameworks and Cloud technologies.</li><li>Experience in Automation Test frameworks</li><li>Experience in <strong>CI/CD methodologies</strong></li><li><strong>2 years of experience working as a Technical Architect.</strong></li><li>Good at verbal and written in English</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Work experience in <strong>Symfony, Elasticsearch, React</strong> (strongly preferred)</li><li>Proficiency in database design &amp; SQL skills</li><li>Knowledge on Real Time Communication (Pusher, PubNub, FireBase)</li><li>Strong understanding of system performance and scaling</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior UI/UX Designer (English)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["UI-UX", "English", "Designer"],
+    "description": [
+      "<ul><li>Working closely with customers to discover and define requirements that reflect their brand/product vision</li><li>Proactively anticipating client needs</li><li>Constantly researching the market and internet for inspiration and for products that have already solved problems similar to the ones you face</li><li>Translating concepts into easy to navigate user flows, wireframes, mock-ups, designs, and interactive prototypes</li></ul>"
+    ],
+    "content": [
+      "<ul><li>A real passion for creating amazing products</li><li>Plenty of patience as often interfaces need to be designed multiple times before hitting the jackpot!</li><li>A track record of successfully leading, motivating, mentoring, and managing teams</li><li>Strong interaction design skills</li><li>A portfolio with examples of finished <strong>UX/UI projects</strong></li><li>Ability to demonstrate the role you’ve played in the development process on previous projects</li></ul>",
+      "<ul><li><strong>5 -7 years relevant experience</strong></li><li>Experience with <strong>Design Systems (Figma)</strong> and user research methodologies</li><li><strong>Excellent communication skills (in the English language)</strong></li></ul>"
+    ]
+  },
+  {
+    "name": "Senior JavaScript Engineer-Sign on bonus",
+    "logoImage": "https://cdn.itviec.com/employers/fram/logo/w170/YMaw168Vk3RPS8bsdHwMyqxd/fram-squarelogo-1536735128457.png",
+    "address": "Floor 22nd, TNR Tower, 180-192 Nguyen Cong Tru Street, Nguyen Thai Binh Ward, District 1, Ho Chi Minh",
+    "tags": ["JavaScript", "Database", "NoSQL"],
+    "description": [
+      "<ul><li>As a Technical Architect you’ll work as part of a team to deliver innovative, cost-effective and efficient IT solutions to an organization.</li><li>You will be responsible for driving technology strategy, building out the technology team of one of our main competencies (PHP, NodeJS, Javascript, Cloud Computing) and delivering on the shared growth vision. Deep understanding of Tech and Hands-On Attitude are a must (yes, sometimes you will need to jump in and show the boys how to code…)</li><li>You’ll be working with cutting edge frameworks, automation, and use the latest technologies for error tracking, reporting, and testing, with a high level of test coverage to maintain high-quality products that our clients use to run their entire business. We take pride in clean code built for our highly scalable systems. We work in small teams for clients from all around the world, follow agile work methods, and use continuous integration and delivery methodologies to move fast without sacrificing quality.</li><li>Your task is to help firefight problems in the various teams as well as educate the teams to avoid them at all.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seeking for solution improvement. </li><li>Work closely with the DevOps team in building and scaling back-end services as well as performing root-cause analysis investigations.</li><li>Report directly to the Head of Engineering.</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5+ years</strong> of overall software development experience, with an emphasis on web applications, both <strong>Frontend (ReactJS / VueJS)</strong>, <strong>Backend (PHP / Python / RoR) </strong>and<strong> DevOps.</strong></li><li>Deep knowledge of web frameworks and Cloud technologies.</li><li>Experience in Automation Test frameworks</li><li>Experience in <strong>CI/CD methodologies</strong></li><li><strong>2 years of experience working as a Technical Architect.</strong></li><li>Good at verbal and written in English</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Work experience in <strong>Symfony, Elasticsearch, React</strong> (strongly preferred)</li><li>Proficiency in database design &amp; SQL skills</li><li>Knowledge on Real Time Communication (Pusher, PubNub, FireBase)</li><li>Strong understanding of system performance and scaling</li></ul>"
+    ]
+  },
+  {
+    "name": "Full Stack Ruby on Rails Developer",
+    "logoImage": "https://cdn.itviec.com/employers/oivan/logo/w170/RcaciPm5GnRvTn6SoJYhUviU/OIVAN_logo_grey.jpg",
+    "address": "38E Tran Cao Van, District 3, Ho Chi Minh",
+    "tags": ["Ruby on Rails", "Ruby", "Angular"],
+    "description": [
+      "<ul><li>As a Technical Architect you’ll work as part of a team to deliver innovative, cost-effective and efficient IT solutions to an organization.</li><li>You will be responsible for driving technology strategy, building out the technology team of one of our main competencies (PHP, NodeJS, Javascript, Cloud Computing) and delivering on the shared growth vision. Deep understanding of Tech and Hands-On Attitude are a must (yes, sometimes you will need to jump in and show the boys how to code…)</li><li>You’ll be working with cutting edge frameworks, automation, and use the latest technologies for error tracking, reporting, and testing, with a high level of test coverage to maintain high-quality products that our clients use to run their entire business. We take pride in clean code built for our highly scalable systems. We work in small teams for clients from all around the world, follow agile work methods, and use continuous integration and delivery methodologies to move fast without sacrificing quality.</li><li>Your task is to help firefight problems in the various teams as well as educate the teams to avoid them at all.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seeking for solution improvement. </li><li>Work closely with the DevOps team in building and scaling back-end services as well as performing root-cause analysis investigations.</li><li>Report directly to the Head of Engineering.</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5+ years</strong> of overall software development experience, with an emphasis on web applications, both <strong>Frontend (ReactJS / VueJS)</strong>, <strong>Backend (PHP / Python / RoR) </strong>and<strong> DevOps.</strong></li><li>Deep knowledge of web frameworks and Cloud technologies.</li><li>Experience in Automation Test frameworks</li><li>Experience in <strong>CI/CD methodologies</strong></li><li><strong>2 years of experience working as a Technical Architect.</strong></li><li>Good at verbal and written in English</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Work experience in <strong>Symfony, Elasticsearch, React</strong> (strongly preferred)</li><li>Proficiency in database design &amp; SQL skills</li><li>Knowledge on Real Time Communication (Pusher, PubNub, FireBase)</li><li>Strong understanding of system performance and scaling</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Java Developer - BONUS",
+    "logoImage": "https://cdn.itviec.com/employers/kms-technology/logo/w170/gjCnVTfqe1uPf7ypqStLf9TV/kms-technology-logo.png",
+    "address": "02 Tan Vien, ward 2 Tan Binh, Tan Binh, Ho Chi Minh",
+    "tags": ["Java", "ReactJS", "Angular"],
+    "description": [
+      "<ul><li>As a Technical Architect you’ll work as part of a team to deliver innovative, cost-effective and efficient IT solutions to an organization.</li><li>You will be responsible for driving technology strategy, building out the technology team of one of our main competencies (PHP, NodeJS, Javascript, Cloud Computing) and delivering on the shared growth vision. Deep understanding of Tech and Hands-On Attitude are a must (yes, sometimes you will need to jump in and show the boys how to code…)</li><li>You’ll be working with cutting edge frameworks, automation, and use the latest technologies for error tracking, reporting, and testing, with a high level of test coverage to maintain high-quality products that our clients use to run their entire business. We take pride in clean code built for our highly scalable systems. We work in small teams for clients from all around the world, follow agile work methods, and use continuous integration and delivery methodologies to move fast without sacrificing quality.</li><li>Your task is to help firefight problems in the various teams as well as educate the teams to avoid them at all.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seeking for solution improvement. </li><li>Work closely with the DevOps team in building and scaling back-end services as well as performing root-cause analysis investigations.</li><li>Report directly to the Head of Engineering.</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5+ years</strong> of overall software development experience, with an emphasis on web applications, both <strong>Frontend (ReactJS / VueJS)</strong>, <strong>Backend (PHP / Python / RoR) </strong>and<strong> DevOps.</strong></li><li>Deep knowledge of web frameworks and Cloud technologies.</li><li>Experience in Automation Test frameworks</li><li>Experience in <strong>CI/CD methodologies</strong></li><li><strong>2 years of experience working as a Technical Architect.</strong></li><li>Good at verbal and written in English</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Work experience in <strong>Symfony, Elasticsearch, React</strong> (strongly preferred)</li><li>Proficiency in database design &amp; SQL skills</li><li>Knowledge on Real Time Communication (Pusher, PubNub, FireBase)</li><li>Strong understanding of system performance and scaling</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Android Engineer-Sign on bonus",
+    "logoImage": "https://cdn.itviec.com/employers/fram/logo/w170/YMaw168Vk3RPS8bsdHwMyqxd/fram-squarelogo-1536735128457.png",
+    "address": "Floor 22nd, TNR Tower, 180-192 Nguyen Cong Tru Street, Nguyen Thai Binh Ward, District 1, Ho Chi Minh",
+    "tags": ["Android", "Xamarin"],
+    "description": [
+      "<ul><li>As a Technical Architect you’ll work as part of a team to deliver innovative, cost-effective and efficient IT solutions to an organization.</li><li>You will be responsible for driving technology strategy, building out the technology team of one of our main competencies (PHP, NodeJS, Javascript, Cloud Computing) and delivering on the shared growth vision. Deep understanding of Tech and Hands-On Attitude are a must (yes, sometimes you will need to jump in and show the boys how to code…)</li><li>You’ll be working with cutting edge frameworks, automation, and use the latest technologies for error tracking, reporting, and testing, with a high level of test coverage to maintain high-quality products that our clients use to run their entire business. We take pride in clean code built for our highly scalable systems. We work in small teams for clients from all around the world, follow agile work methods, and use continuous integration and delivery methodologies to move fast without sacrificing quality.</li><li>Your task is to help firefight problems in the various teams as well as educate the teams to avoid them at all.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seeking for solution improvement. </li><li>Work closely with the DevOps team in building and scaling back-end services as well as performing root-cause analysis investigations.</li><li>Report directly to the Head of Engineering.</li></ul>"
+    ],
+    "content": [
+      "<ul><li><strong>5+ years</strong> of overall software development experience, with an emphasis on web applications, both <strong>Frontend (ReactJS / VueJS)</strong>, <strong>Backend (PHP / Python / RoR) </strong>and<strong> DevOps.</strong></li><li>Deep knowledge of web frameworks and Cloud technologies.</li><li>Experience in Automation Test frameworks</li><li>Experience in <strong>CI/CD methodologies</strong></li><li><strong>2 years of experience working as a Technical Architect.</strong></li><li>Good at verbal and written in English</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Work experience in <strong>Symfony, Elasticsearch, React</strong> (strongly preferred)</li><li>Proficiency in database design &amp; SQL skills</li><li>Knowledge on Real Time Communication (Pusher, PubNub, FireBase)</li><li>Strong understanding of system performance and scaling</li></ul>"
+    ]
+  },
+  {
+    "name": "Frontend Lead (ReactJS/JavaScript/HTML5)",
+    "logoImage": "https://cdn.itviec.com/employers/nfq-asia/logo/w170/wSqDe722rToJQ6oXH3Yc8QJZ/nfq-asia-8bit-rockstars-logo.png",
+    "address": "72 Lê Thánh Tôn, District 1, Ho Chi Minh",
+    "tags": ["ReactJS", "HTML5", "JavaScript"],
+    "description": [
+      "<ul><li>Managing full lifecycle customer projects with <strong>Agile methods</strong>.</li><li>Developing strong relationships with customers, acting as the primary point of contact as well as managing stakeholder expectations and always seek for solution improvement.</li><li>You will create, test, maintain user-friendly / mobile-friendly web application</li><li>Optimizing web application for maximum speed</li><li>Building reusable components for future use</li><li>Collaborating with back-end developers and web designers to improve usability</li></ul>"
+    ],
+    "content": [
+      "<ul><li>At least <strong>5+ years</strong> in Frontend technology stack, especially <strong>React</strong> framework</li><li>Proficient understanding of code versioning tools (<strong>Git</strong> is preferred)</li><li>In-depth understanding of in <strong>HTML/CSS, Javascript</strong></li><li>Experience in unit testing frameworks (e.g. Ava, Jest, Mocha)</li><li>Knowledge of Docker container</li><li>Strong teamwork collaboration</li><li>Ability to work independently with minimal supervision while achieving benchmarks</li><li>Capability to collaborate with team members and stakeholders.</li></ul>",
+      "<ul><li>Experience in booking business domain (hotel booking, car rental)</li><li>Experience in front-end tools (e.g. Grunt, Gulp, Webpack)</li><li>Strong knowledge of development based on REST API</li><li>Experience in GIS (e.g. OpenLayers)</li><li>Knowledge of Realtime Communication (Pusher, PubNub, FireBase)</li><li>In-depth understanding of the entire web development process (design, development and deployment)</li><li>That would be nice if the candidate has in-depth knowledge of ATOMIC web design and domain knowledge in the E-commerce shop system (Oxid, Magento).</li></ul>"
+    ]
+  },
+  {
+    "name": "Middle Backend Ruby on Rails Dev ~2500$",
+    "logoImage": "https://cdn.itviec.com/employers/wonderlabs/logo/w170/NbYhKSjrJt4kQvLTBPUMN94C/Wonder%20Brand_logo-normal.png",
+    "address": "39 Le Thach Street, District 4, Ho Chi Minh",
+    "tags": ["Ruby on Rails", "SQL", "Ruby"],
+    "description": [
+      "<ul><li>Writing clean, maintainable and efficient code</li><li>Designing robust, scalable and secure features</li><li>Contributing in all phases of the development lifecycle</li><li>Write clean, maintainable and efficient code</li><li>Design robust, scalable and secure features</li><li>Contribute in all phases of the development lifecycle</li><li>Follow best practices (test-driven development, continuous integration, SCRUM, refactoring and code standards)</li><li>Drive continuous adoption and integration of relevant new technologies into design</li></ul>"
+    ],
+    "content": [
+      "<ul><li><i><strong>Strong Communication in English</strong></i></li><li>Experience with Ruby on Rails, or the desire to learn it quickly</li><li>Comfortable with relational databases and SQL</li><li>Huge amount of ownership and the ability to thrive on a high level of autonomy and responsibility. We deal with mission-critical systems every day</li><li>Good communicator - you will be working in a multinational team. We have engineers from Taiwan, Vietnam, Singapore, and Indonesia!</li><li>You are someone who thinks quickly and debug issues to their root cause</li><li>Drive to learn new things and grow personally. We moves at a fast pace and people who can learn fast and adapt to changes love working here!</li><li>Answering support question, debugging issues</li><li>Look into various alerts that are pinging in our error and warn channels</li><li>Monitor application-infra stuff redis/ sidekiq / dj related to txns. Are they reaching limits</li><li>Monitor bank integrations</li><li>Monitor new products being launched for errors, regressions (e.g. txn time, reliability)</li><li>Debug audit failures, recon</li><li>Fine tune alerts to reduce false positive/ negative</li><li>Write scripts/ logging to make all the above more scalable and less taxing to do</li><li>Making sure all the actionable after AARs are done</li></ul>"
+    ]
+  },
+  {
+    "name": "Full-Stack Laravel Developer (English)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["Laravel", "MySQL", "VueJS"],
+    "description": [
+      "<ul><li>Laravel</li><li>Laravel Spark</li><li>Stripe &amp; Twilio Integration</li><li>Infrastructure: AWS Lambda/RDS/ElastiCache/CDN/S3</li><li>Deployment: Terraform/GitHub Actions</li><li>Project Management: Jira/Confluence</li><li>Test: TestRail/Protractor/BrowserStack</li><li>Metrics: NewRelic/DataDog</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Ability to gather and refine specifications and requirements based on technical needs</li><li>Skills with AWS/S3/SES/RDS architecture</li><li>Knowledge of <strong>RESTful API, HTML5/CSS3</strong> and relational <strong>database systems (MSSQL or MYSQL).</strong></li><li>Experience with version control such as BitBucket or GitHub</li><li>Experience of using JSON/XML/REST/AJAX</li><li><strong>Good command of the English language (written and spoken)</strong></li><li>Excellent communication and teamworking skills</li></ul>",
+      "<ul><li><i><strong>3+ years of solid Laravel experience</strong></i></li><li>Good understanding of front-end technology stacks (Vue.js)</li></ul>"
+    ]
+  },
+  {
+    "name": "Team Leader Full-Stack Laravel (English)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["Laravel", "English", "VueJS"],
+    "description": [
+      "<ul><li>Laravel</li><li>Laravel Spark</li><li>Stripe &amp; Twilio Integration</li><li>Infrastructure: AWS Lambda/RDS/Elasticache/CDN/S3</li><li>Deployment: Terraform/GitHub Actions</li><li>Project Management: Jira/Confluence</li><li>Test: TestRail/Protractor/BrowserStack</li><li>Metrics: NewRelic/DataDog</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Skills in gathering and refining specifications and requirements based on technical needs</li><li>Experience of using AWS/S3/SES/RDS architecture</li><li>Knowledge of RESTful API, HTML5/CSS3 and relational database systems (MSSQL or MYSQL).</li><li>Experience with version control such as BitBucket or GitHub</li><li>A demonstrable track record of using JSON/XML/REST/AJAX</li><li>Evidence of an ability to work closely and effectively with all types of people working in different countries and time zones,</li></ul>",
+      "<ul><li><i><strong>5+ years of solid Laravel experience</strong></i></li><li>Good understanding of <i><strong>front-end technology stacks (Vue.js)</strong></i></li></ul>"
+    ]
+  },
+  {
+    "name": "OpenStack Developer (Python, English)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["Python", "English", "DevOps"],
+    "description": [
+      "<ul><li>Driving the development of a fast and effective cloud-based automated OpenStack deployment service inspired by</li><li>Pushing the boundaries of what’s possible with OpenStack</li><li>Adding customised integrations and features that demonstrate Stratavo’s commitment to innovation</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Extensive skills and experience with <strong>Ansible and Python</strong></li><li>A track record of extensive open-source project activity and contribution especially around <strong>OpenStack and/or DevOps</strong></li><li>Skills in other languages such as Bash, Node, GoLang.</li><li>Strong working knowledge of Networking, Virtualisation, Docker, and Kubernetes.</li><li><strong>Ability to communicate effectively in written English</strong></li></ul>"
+    ]
+  },
+  {
+    "name": "Sr DevOps Consultant (English, Linux)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["DevOps", "Linux", "Java"],
+    "description": [],
+    "content": [
+      "<ul><li>Building and designing AWS and Azure infrastructures using automation templates and tools such as Terraform, Ansible, CloudFormation, and ARM.</li><li>Developing contemporary cloud-native applications that are agile, scalable, and reliable.</li><li>Implementing CI/CD processes and technologies using Octopus, Puppet, GitLab and other tech.</li><li>Championing the establishment and use of best practice infrastructure design across the business</li><li>Helping the team bid for new contracts and taking part in new business pitches</li></ul>",
+      "<ul><li><i><strong>Good knowledge of Linux OS</strong></i></li><li>Broad understanding of cloud technologies</li><li>Outstanding team leadership and mentoring skills</li><li>Knowledge of cloud design best practices such as Azure Review Framework or AWS Well-Architected Framework</li><li>Programming experience in Bash and other languages such as <i><strong>Python, Java, and Ingress</strong></i></li><li><i><strong>Strong communication skills (in English)</strong></i> and teamwork skills</li></ul>",
+      "<ul><li><i><strong>At least 5 years of successful innovation in DevOps and/or the cloud</strong></i></li><li>Over 10 years’ development, infrastructure, security, and networking experience</li></ul>"
+    ]
+  },
+  {
+    "name": "Sr Solution Architect (English, Python)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["Software Architect", "Python", "Java"],
+    "description": [
+      "<ul><li>Using SOA to develop systems that are closely aligned with business needs</li><li>Maintaining fast, scalable, and efficient software using concepts such as Domain-Driven Design</li><li>Breaking down services into layers, tiers, assemblies, and processes</li><li>Designing systems that use modern cloud services, and frameworks and deliver 100%  uptime.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>The determination to take responsibility for all aspects of the infrastructure solutions you build</li><li>The creation of systems that seamlessly integrate with G Suite, Microsoft 365, or other platforms</li><li>Outstanding team leadership and mentoring skills</li><li>A good understanding of Kubernetes and all the major AWS and Azure components that are used to create modern cloud applications</li><li>Programming experience in Bash and other languages such as <strong>Python, Java, and PowerShell</strong></li><li>Playing a key role in bid teams, helping to create winning proposals and deliver successful pitch presentations</li></ul>",
+      "<ul><li><strong>A minimum of 5 years’ experience</strong> in a solutions architect role</li><li>A track record of successful enterprise software development that spans 10 years or more</li><li><strong>Ability to communicate effectively in English</strong></li></ul>"
+    ]
+  },
+  {
+    "name": "Sr. Web & Graphic Designer (English)",
+    "logoImage": "https://cdn.itviec.com/employers/stratavo/logo/w170/8uhkdH481DDoCcjNAQMPWMhW/1.png",
+    "address": "Seahorse Office 29 Yên Bái, Phường Hải Châu I, Hai Chau, Da Nang",
+    "tags": ["Designer", "HTML5", "English"],
+    "description": [],
+    "content": [
+      "<ul><li>Designing unique web-based content <strong>using HTML and CSS</strong></li><li>Keeping a close eye on trends and technical developments in the world of web and graphic design</li><li>Using concepts such as reactive and responsive design where appropriate</li><li>Demonstrating a strong understanding of the latest SEO techniques</li></ul>",
+      "<ul><li>A real passion for digital marketing</li><li>Experience of managing and mentoring teams of designers working in-office and remotely</li><li>The patience to take time to understand customer needs, some of which may be abstract</li><li>A determination to ensure all your designs help clients establish and grow a distinctive online presence</li></ul>",
+      "<ul><li><strong>5 – 7 years experience as a web and graphic designer</strong></li><li><strong>Ability to communicate in English</strong> at an advanced level</li><li>A portfolio of finished web designs for which you can explain the process you went through to create</li><li><strong>A strong Adobe-based skillset including DreamWeaver, PhotoShop, Illustrator, InDesign, and XD</strong></li><li>A track record of using Elementor, WordPress and associated plug-ins for caching, CDN, Insights, SEO, backup and more</li></ul>"
+    ]
+  },
+  {
+    "name": "Fullstack Dev (Java, JavaScript)",
+    "logoImage": "https://cdn.itviec.com/employers/mgm-technology-partners-vietnam/logo/w170/8G6KY8J1s2Xrx8mCAVADn9va/mgm-technology-partners-vietnam-logo.png",
+    "address": "7 Phan Chau Trinh, Hải Châu 1, Hai Chau, Da Nang",
+    "tags": ["Java", "JavaScript", "ReactJS"],
+    "description": [
+      "<ul><li>Work for international customers</li><li>Work with colleagues from Germany, France, the Czech Republic and the US</li><li>Be responsible for the success of your project</li><li>Design, implement and test web applications</li><li>Collaborate on requirement analysis and specifications</li><li>Share knowledge and experience with your colleagues</li><li>Working time: 40 hours / week, flexible</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Experience with multi-tier or service-oriented web applications</li><li>Understanding of software development tools, processes and architecture</li><li>You use state of the art technologies: Java, TypeScript, React, SQL</li><li>If you do DevOps or .NET/C# we are also curious to get to know you</li><li>From 2 years of professional experience in international software projects</li><li>Degree in engineering or natural sciences (university or technical college)</li><li>Good English in both written and spoken</li><li>Sense of responsibility, communication skills and team spirit</li><li>Willingness to learn and build a deep understanding</li><li>A passion for software development, new trends and technologies in IT</li></ul>"
+    ]
+  },
+  {
+    "name": "Java Developer (Spring, Typescript)",
+    "logoImage": "https://cdn.itviec.com/employers/mgm-technology-partners-vietnam/logo/w170/8G6KY8J1s2Xrx8mCAVADn9va/mgm-technology-partners-vietnam-logo.png",
+    "address": "7 Phan Chau Trinh, Hải Châu 1, Hai Chau, Da Nang",
+    "tags": ["Java", "JavaScript", "Spring"],
+    "description": [
+      "<ul><li>Work for international customers</li><li>Work with colleagues from Germany, France, the Czech Republic and the US</li><li>Be responsible for the success of your project</li><li>Design, implement and test web applications</li><li>Collaborate on requirement analysis and specifications</li><li>Share knowledge and experience with your colleagues</li><li>Working time: 40 hours / week, flexible</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Strong skills in <strong>web technologies, JEE, SQL</strong></li><li>Experience with <strong>multi-tier or service-oriented</strong> web applications</li><li>Understanding of software development tools, processes and architecture</li><li>Knowledge of <strong>Typescript, Spring, Hibernate</strong> is an advantage</li><li><strong>From 3 years</strong> of professional experience in international software projects</li><li>Degree in engineering or natural sciences (university or technical college)</li><li>Very<strong> good English</strong> both written and spoken</li><li>Sense of responsibility, communication skills and team <strong>spirit</strong></li><li>Willingness <strong>to learn and build </strong>a deep understanding</li><li>A<strong> passion</strong> for software development, new trends and technologies in IT</li></ul>"
+    ]
+  },
+  {
+    "name": "Công nghệ thông tin (.NET, SQL)",
+    "logoImage": "https://cdn.itviec.com/employers/phan-mem-viet-da/logo/w170/9qkwShNc1oMchDf2nzTirgMP/ph-n-m-m-vi-t-da-logo.jpg",
+    "address": "59 Nguyễn Quyền, P. Hòa An, Cam Le, Da Nang",
+    "tags": [".NET", "SQL"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "PHP Developer (MVC/OOP/JavaScript/HTML5)",
+    "logoImage": "https://cdn.itviec.com/employers/ech-creative/logo/w170/vnzqQ9QjgyLuRf6P524Y4bWY/87184404_2308365132795797_6835645806855323648_o.jpg",
+    "address": "Tầng 3, Tòa nhà Indochina Riverside Tower, 74 Bạch Đằng, Hai Chau, Da Nang",
+    "tags": ["PHP", "MVC", "JavaScript"],
+    "description": [
+      "<ul><li>Tham gia xây dựng, phát triển các ứng dụng web theo yêu cầu. </li><li>Phân tích và đưa ra các giải pháp kỹ thuật cho các dự án được giao</li><li>Tối ưu, nâng cấp mã nguồn để cải tiến hiệu quả, tăng độ ổn định và bảo mật</li><li>Nghiên cứu đề xuất với Công ty, dự án về công nghệ mới được ưa chuộng nhất</li><li>Chi tiết sẽ được trao đổi khi phỏng vấn</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Tốt nghiệp các ngành có liên quan</li><li>Thành thạo ngôn ngữ lập trình PHP</li><li>Có trên 2 năm kinh nghiệm, nắm vững kiến thức về MVC, OOP, API RESTful</li><li>Thành thạo HTML, CSS, Javascript, jQuery</li><li>Có khả năng làm việc độc lập, làm việc nhóm</li><li>Có khả năng tự học hỏi, tự nghiên cứu, trau dồi các kỹ năng, các công nghệ mới nhất</li><li>Mong muốn làm việc lâu dài và phát triển sự nghiệp tại công ty, tổ chức</li><li>Thân thiện, cởi mở, nhanh nhẹn trong công việc</li><li>Nhiệt tình với các công việc được giao phó</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Android Dev (Kotlin, Java)",
+    "logoImage": "https://cdn.itviec.com/employers/cong-ty-tnhh-cashbag/logo/w170/JzPm1AZWbnQLm5CarAAbSh8J/image%2014.png",
+    "address": "16-18 Phan Thanh Tai St., Hai Chau, Da Nang",
+    "tags": ["Android", "Java", "Kotlin"],
+    "description": [
+      "<ul><li>Translate designs and wireframes into high quality code.</li><li>Design, build, and maintain high performance, reusable, and reliable Java code.</li><li>Ensure the best possible performance, quality, and responsiveness of the application.</li><li>Identify and correct bottlenecks and fix bugs.</li><li>Help maintain code quality, organization, and automatization.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>3+ years experience.</li><li>Strong knowledge of Kotlin, Java</li><li>Strong knowledge of Android SDK, different versions of Android, and how to deal with different screen sizes</li><li>Familiarity with RESTful APIs</li><li>Strong knowledge of Android UI design principles, patterns, and best practices</li><li>Experience with offline storage, threading, and performance tuning</li><li>Knowledge of the open-source Android ecosystem and the libraries available for common tasks</li><li>Familiarity with cloud message APIs and push notifications</li><li>Proficient understanding of code versioning tools, such as Git</li><li>Familiarity with continuous integration</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Python Developer",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "3 Quang Trung Software City, District 12, Ho Chi Minh",
+    "tags": ["Python", "SQL", "AWS", "Fresher Accepted"],
+    "description": [
+      "<ul><li>Build efficient back-end features in Python</li><li>Integrate front-end components into applications</li><li>Manage testing and bug fixes</li><li>Prepare technical documentation</li><li>Coach junior team members</li><li>Implement software enhancements and suggest improvements</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Solid experience as Python Developer</li><li>Experience with Python frameworks (e.g. Django, Flask, Bottle)</li><li>Familiarity with Amazon Web Services (AWS) and REST API</li><li>Understanding of databases and SQL</li><li>Knowledge of JavaScript and the AngularJS framework is a plus</li><li>Attention to detail</li><li>Leadership skills</li><li>A degree in an associated field and/or other advanced certification along with significant experience</li><li>Go language is a strong plus</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Backend Developers (.NET, SQL)",
+    "logoImage": "https://cdn.itviec.com/employers/one-tech-stop-vietnam-company-ltd/logo/w170/J6KM48ktjF5D5hXC9E123yQa/0%20(1)%20-%20Dung%20Bui.jpeg",
+    "address": "36 Tran Quoc Toan, Hai Chau 1, Hai Chau, Da Nang",
+    "tags": [".NET", "Agile", "SQL"],
+    "description": [
+      "<ul><li>Perform development &amp; testing features/bugs from backlog items.</li><li>Response quickly to handle incidents if it happens.</li><li>Build and maintain the CI/CD.</li><li>Involved in Quality Assurance with good process, practices, and analysis tools.</li><li>Involved in developing Non-Functional Requirements (e.g. Performance, Security, Reliability, Maintainability...)</li><li>Assists leaders to define a Technical Backlog.</li><li>Involved in defining Roadmap and Risk Management.</li><li>Responsible for being committed to the results to be delivered by his/her team and assists his/her teams in achieving such results.</li><li>Responsible for objectively and effectively communicating with his/her counterparts, leaders, and team members</li><li>Responsible for providing his/her team with feedback in their work.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Have strong experience in backend development, especially .<strong>NET/.NET Core, REST APIs.</strong></li><li>Have experience in database programming or design skills, including relational database skills (SQL, etc.) and non-relational database skills (MongoDB, Redis, Cassandra, etc.).</li><li>Have good experience on cloud architecture/infrastructure, especially on GCP.</li><li>Have experience at coding (the code is well documented and compliant with good practices) and testing (Unit Test, Integration Test, User Acceptance Test, Automation Regression Test.</li><li>Strong knowledge about Dependency Injection, Design Patterns, Programming principles</li><li>Have experience using HTML/CSS/JavaScript.</li><li>Have knowledge of practices, tools and technologies to build CI/CD.</li><li>Have knowledge of Technical Grooming &amp; Design good practices as well as processes.</li><li>Have knowledge of the process and good practices for Quality Assurance.</li><li>Have knowledge and skills in applying predefined architecture standards (Reference Architectures or agreed architectures) under follow-up.</li><li>Have knowledge of non-functional requirements and their practices for identification and collection.</li><li>Have knowledge of tools to define Roadmap and Risk Management. Have know-how and skills to map his/her team technical knowledge.</li><li>Strong problem-solving skill.</li><li>Have the ability to handle stressful situations.</li><li>Familiar with working in an Agile environment.</li><li>Strong English verbal and written communication skills.</li><li>Good presentation skills.</li></ul>",
+      "<ul><li>Experience in AWS, Google Cloud Platform, Microsoft Azure is a strong plus</li><li>Have knowledge about Clean Architecture, Microservices, DDD is a string plus</li><li>Experience with front end development (Angular, React, Vue) is a plus.</li><li>Willing to learn new technology, product mind-set.</li></ul>"
+    ]
+  },
+  {
+    "name": "Frontend Developer (Angular/ReactJS/CSS)",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "3 Quang Trung Software City, District 12, Ho Chi Minh",
+    "tags": ["Angular", "CSS", "ReactJS", "Fresher Accepted"],
+    "description": [],
+    "content": [
+      "<ul><li>Bachelor's Degree in computer science or related field, or equivalent practical experience</li><li>Possess strong skills in object-oriented software design and programming</li><li>Proficient understanding of web markup, including HTML5, CSS3</li><li>Proficient understanding of client-side scripting and JavaScript/TypeScript frameworks, including JQuery</li><li>Good understanding of advanced JavaScript/TypeScript libraries and frameworks, such as ReactJS, AngularJS</li><li>Proficient understanding of cross-browser compatibility issues and ways to work around them.</li></ul>"
+    ]
+  },
+  {
+    "name": "Automotive Embedded Engineer (C++/Linux)",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "F6 Phi Long Building, 52 Nguyen Van Linh street, Hai Chau, Da Nang",
+    "tags": ["Embedded", "Linux", "C++", "Fresher Accepted"],
+    "description": [
+      "<ul><li>As an Automotive Embedded Engineer, you main responsibilities include:</li><li>Embedded software development for Automotive technologies</li><li>Requirement analysis, design, implement, execute test cases, analyses failure &amp; bugs report</li><li>Analysis/ debugging of embedded software</li><li>Communicate with customer, co-ordinate team activities, and handle day-to-day work efficiently and independently</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Electronics/ Mechatronics/ Computer Engineering or relevant background</li><li>Have experience in Embedded Software Development</li><li>Strong in C programming for Embedded Software, compiler, make file</li><li>Good in CANprotocol/ Microcontroller/ sensor/ IO/ Serial knowledge</li><li>Knowledge &amp; experience in Automotive Domain and tools (CANOE, CANape,...)</li><li>Good in problem analysis and solving</li><li>Good in debugging</li><li>Good communication skills, confident in working directly with foreign clients</li><li>Good English language skills</li></ul>"
+    ]
+  },
+  {
+    "name": "C++ Developer (C/ C++) Danang-HCM",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "F6 Phi Long Building, 52 Nguyen Van Linh street, Hai Chau, Da Nang",
+    "tags": ["C++", "OOP", "C language", "Fresher Accepted"],
+    "description": [
+      "<ul><li>Work with project members, responsible for the design/code review, development, and implementation &amp; testing.</li><li>Implement task lists, estimate deliver assignments as functional specifications, quality standards and project schedules.</li><li>Consistently delivers high-quality services and meet customer requirements. Other assignments from Project Manager.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>1 or more years of programming in C/C++</li><li>Junior/Experienced Profiles are both welcomed</li><li>Newcomers will be trained before working</li><li>Have knowledge in Object Oriented Programming Methodology.</li><li>Ability to analyze/study new technical, new frameworks.</li><li>Have knowledge in advanced programming techniques such as Multithread programming, Memory Management.</li></ul>"
+    ]
+  },
+  {
+    "name": "Web System Developer (PHP, HTML5, MySQL)",
+    "logoImage": "https://cdn.itviec.com/employers/cominit/logo/w170/TEwrVZuCFBUj4vBFN5G6waNd/cominit-logo.PNG",
+    "address": "150 Ly Trien, Thanh Khe, Da Nang",
+    "tags": ["PHP", "MySQL", "HTML5"],
+    "description": [
+      "<ul><li>Tham gia vào các dự án thiết kế, phát triển các sản phẩm mới theo yêu cầu của khách hàng và các sản phẩm chiến lược của công ty.</li><li>Tư vấn, nghiên cứu, phát triển sản phẩm theo các công nghệ mới.</li><li>Tham gia bảo trì, nâng cấp chức năng, giao diện theo yêu cầu của khách hàng trên hệ thống website hiện có.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Có kiến thức nền tảng về giải thuật và cấu trúc dữ liệu</li><li>Tối thiểu 1 năm kinh nghiệm về PHP, có hiểu biết về MySQL, CSS, HTML, JS</li><li>Database: RDBM (Mysql)</li><li>Hiểu biết về HTML5, CSS3, JS (Jquery)</li><li>Có khả năng sử dụng các ngôn ngữ khác như (Nodejs, Java, ...) là một lợi thế</li></ul>"
+    ]
+  },
+  {
+    "name": "[HN/ĐN] iOS/Android Dev - Up to $1800",
+    "logoImage": "https://cdn.itviec.com/employers/hybrid-technologies/logo/w170/oZ68G6PENyitD3EWBPE9gqHf/avatar-10-10.jpg",
+    "address": "219 Trung Kinh, Yen Hoa , Cau Giay, Ha Noi",
+    "tags": ["iOS", "Android", "Swift"],
+    "description": [
+      "<ul><li>Tham gia vào các dự án phần mềm với các đối tác hàng đầu Nhật Bản</li><li>Lập trình các ứng dụng iOS, Android</li><li>Tối ưu hóa ứng dụng để cải thiện hiệu năng và nâng cao khả năng mở rộng của sản phẩm</li><li>Tham gia vào quá trình thiết kế, review source code</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Từ 3-5 năm kinh nghiệm lập trình các ứng dụng iOS/Android</li><li>Tiếng Anh đọc, viết tốt</li></ul>",
+      "<ul><li>Nắm vững kiến thức về Swift/Objective C</li><li>Có kinh nghiệm làm việc với SQLite, Realm</li><li>Có tư duy logic về Data structrures, Algorithm</li><li>Có hiểu biết về Clean code, Solid, design Pattern là 1 lợi thế</li><li>Có kinh nghiệm làm việc với các BaaS như Firebase là lợi thế</li></ul>",
+      "<ul><li>Hiểu về mô hình Client-server</li><li>Hiểu và thành thạo lập trình hướng đối tượng</li><li>Kinh nghiệm sử dụng các mô hình phổ biến trong Android như MVP/MVVM</li><li>Kinh nghiệm triển khai các API mới</li><li>Có nền tảng Java tốt là 1 lợi thế</li></ul>",
+      "<ul><li><i>Đã từng tham gia phát triển ứng dụng đáp ứng lượng user sử dụng lớn</i></li></ul>"
+    ]
+  },
+  {
+    "name": "DevOps Engineer (Cloud, AWS,Azure, Bash)",
+    "logoImage": "https://cdn.itviec.com/employers/saigon-technology-solutions/logo/w170/zyi2qHzoGojagrQtf4cyyFtm/saigon-technology-solutions-logo.png",
+    "address": "2 Nguyen The Loc, Ward 12, Tan Binh, Ho Chi Minh",
+    "tags": ["DevOps", "AWS", "Cloud"],
+    "description": [
+      "<ul><li>Support deploy, and configure tooling to support continuous integration and continuous delivery pipelines</li><li>Engage in projects as needed, work collaboratively with other team members, communicate effectively, and contribute to team success</li><li>Collaborate in technical discussions both internally and with external customer teams</li><li>Support a future customer-facing teams with root cause analysis and resolution of escalated technical issues</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Experience with virtualization, for example VMWare</li><li>Experience with public cloud providers (AWS, <strong>Azure</strong>)</li><li>Experience with following languages:  powershell script, bash script</li><li>Experience with databases, for example PostgresSQL and/or MS SQL</li><li>Experience with one of the following tools: Ansible, Team City</li><li>Experience with Docker or another container based system</li><li>Experience with monitoring tools, for example Zabbix</li><li>MUST be good at verbal/non verbal English</li></ul>",
+      "<ul><li>Leadership skill is a plus</li></ul>"
+    ]
+  },
+  {
+    "name": "Android Developer_Java/Kotlin",
+    "logoImage": "https://cdn.itviec.com/employers/hitachi-vantara/logo/w170/HicNgcsCwbtJjGUdGiBayKMS/2cCSLogo_bk_Hitachi_%20redbg.png",
+    "address": "3 Quang Trung Software City, District 12, Ho Chi Minh",
+    "tags": ["Android", "Java", "Kotlin", "Fresher Accepted"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "Android Developer (13TH MONTH BONUS)",
+    "logoImage": "https://cdn.itviec.com/employers/sun-inc/logo/w170/cDcdNbGCaVV5xgnmz8Vfv4ed/framgia-inc-logo.jpg",
+    "address": "Keangnam Hanoi Landmark Tower , Nam Tu Liem, Ha Noi",
+    "tags": ["Android", "Database", "Kotlin"],
+    "description": [
+      "<ul><li>Môi trường làm việc chuyên nghiệp nhưng đầy ắp tính sáng tạo</li><li>Đội ngũ leader, supporter hàng đầu Việt Nam</li></ul>",
+      "<ul><li>Niềm đam mê vô hạn với Android</li><li>Tư suy sáng tạo vô bờ bến</li></ul>",
+      "<ul><li>Hãy cùng nhau tạo ra một hệ sinh thái của riêng mình để thế giới biết đến chúng ta là ai.</li></ul>",
+      "<ul><li>Tham gia phân tích requirement, thiết kế hệ thống.</li><li>Nghiên cứu và áp dụng các công nghệ mới.</li><li>Cải tiến và nâng cao chất lượng dự án.</li><li>Tham gia vào các diễn đàn, tech show về công nghệ của công ty.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Có ít nhất 2 năm kinh nghiệm làm việc với Android</li><li>Có hiểu biết, thành thạo về các Version Control System, chẳng hạn như Git</li><li>Thành thạo ngôn ngữ Kotlin</li><li>Thành thạo việc sử dụng IDE để phát triển (Android Studio)</li><li>Nắm vững OOP và các giải thuật cơ bản: OOP principles, Primitives vs object, Interface vs abstract class, Static keyword, Access modifiers, Memory allocation, Generics, Threading</li><li>Thành thạo xử lý layout: FrameLayout, LinearLayout, RelativeLayout, ConstraintLayout</li><li>Có kinh nghiệm, hiểu biết về xử lý bất đồng bộ ( Asynctask, RxAndroid, RxKotlin, RxJava, Coroutine )</li><li>Kiến thức vững chắc về SDK Android, các phiên bản Android khác nhau và cách xử lý với các kích thước màn hình khác nhau</li><li>Làm quen với các API RESTful để kết nối các ứng dụng Android với các service của Back-End</li><li>Có kiến thức về: Database (Room, SQLite, Preferences)</li></ul>",
+      "<ul><li>Design pattern (MVP, MVVM, Clean architecture)</li><li>Có kiến thức về dependency injection (Koin, Dagger)</li><li>Ưu tiên có kiến thức về các thành phần trong gói Android Jetpack như : Live Data, View Model, Data Binding, Navigation</li><li>Nắm được thông tin các phiên bản android gần đây từ version 4.0 tới hiện tại (những sự kiện chính, những kỹ thuật mới)</li></ul>"
+    ]
+  },
+  {
+    "name": "iOS Developer (13TH -MONTH SALARY BONUS)",
+    "logoImage": "https://cdn.itviec.com/employers/sun-inc/logo/w170/cDcdNbGCaVV5xgnmz8Vfv4ed/framgia-inc-logo.jpg",
+    "address": "Keangnam Hanoi Landmark Tower , Nam Tu Liem, Ha Noi",
+    "tags": ["iOS", "Objective C", "Swift"],
+    "description": [
+      "<ul><li>Tham gia phân tích requirement, thiết kế hệ thống</li><li>Tham gia vào các dự án outsource với nhiều đối tác lớn của Nhật hoặc phát triển các sản phẩm công ty</li><li>Nghiên cứu và áp dụng các công nghệ mới để cải tiến, nâng cao chất lượng các dự án hiện có</li><li>Tham gia vào các diễn đàn/ tech show về công nghệ của công ty</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Ít nhất 1 năm kinh nghiệm làm việc với iOS Có kinh nghiệm làm việc với C/C++/Objective-C/ Swift</li><li>Có hiểu biết sâu về OOP,OOD, memory management, property, enums, structures, classes.</li><li>Có hiểu biết về protocol, delegate và higher order functions, GCD</li><li>Có kinh nghiệm làm việc trong các dự án theo mô hình Agile</li><li>Biết RxSwift là lợi thế</li></ul>",
+      "<ul><li>Có kinh nghiệm làm việc với các dự án iOS trên 3 năm</li><li>Sử dụng thành thạo, hiểu sâu về C/C++/Objective-C/ Swift.</li><li>Hiểu sâu về thread, multi-threading và quản lý Memory</li><li>Có hiểu biết sâu về protocol, delegate và higher order functions, GCD</li><li>Có tư duy logic tốt, hiểu biết sâu về OOP,OOD, property, enums, structures, classes.</li><li>Có hiểu biết về thiết kế UI, hiểu biết sâu về AFNetworking, Alamofire,JSON encoder, decoder.</li><li>Có hiểu biết về server</li><li>Có khả năng thiết kế hệ thống (flow design, detail design, sequence diagram design)</li><li>Có khả năng đọc hiểu nắm bắt flow dự án và nắm bắt code của người khác nhanh</li><li>Có khả năng làm việc với áp lực cao</li><li>Biết RxSwift là lợi thế</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Developer (.NET,Angular,ReactJS)",
+    "logoImage": "https://cdn.itviec.com/employers/nexle-corporation/logo/w170/nT2KRmwWLiYyS4RnHNHCSKpr/nexle-corporation-logo.png",
+    "address": "39 Quang Trung, Hai Chau, Da Nang",
+    "tags": [".NET", "ReactJS", "Angular"],
+    "description": [
+      "<ul><li>Review business requirements working with team members</li><li>Perform a technical analysis of requirements</li><li>Produce a solid, detailed technical design</li><li>Write clean, modular, robust code to implement the desired requirements with little or no supervision</li><li>Work with the other partners to triage and fix bugs with rapid turnaround</li><li>Contribute ideas for making the application better and easier to use</li><li>Develop and maintain application using .NET, C#, Angular or ReactJS</li><li>Active participation in customer/partner design meetings and general engagements</li><li>Ensure on time, on budget, and the quality of the product.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>B.S. in Computer Science, or equivalent</li><li>3+ years experienced developing web application and API</li><li>2+ years experienced working on .NET (C#), Angular or ReactJS</li><li>Experienced in NodeJS is a plus</li><li>Be creative and good at user experiences</li><li>A creative mind which can work alongside a very drunk design and creative team</li><li>Highly organised driven individual with skills in an agency environment</li><li>Good English communication skills</li><li>A commitment to quality and a thorough approach to work</li><li>Good teamwork and reliability</li><li>Drive and enthusiasm with the ability to manage and co-ordinate multiple projects</li></ul>"
+    ]
+  },
+  {
+    "name": ".NET Developers - All level -Up to $1500",
+    "logoImage": "https://cdn.itviec.com/employers/codecomplete-viet-nam/logo/w170/RsizLp7EATpmvMVPnsxvatvG/codecomplete-logo.png",
+    "address": "81 Quang Trung - Vietnam News Agency Building, Hai Chau, Da Nang",
+    "tags": [".NET", "Agile", "Database"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "Software Architect (Fullstack, Mobile)",
+    "logoImage": "https://cdn.itviec.com/employers/linkhouse-mien-trung/logo/w170/hzeZxvYRfcTRvkeE2oR5U2dP/Logo%20Vu%C3%B4ng.png",
+    "address": "Tầng 4, Tòa nhà Vinaconex, Số 320 Đường 2 Tháng 9, Hai Chau, Da Nang",
+    "tags": ["Software Architect", "React Native", "Cloud"],
+    "description": [
+      "<ul><li>Giải quyết các tính năng nghiệp vụ bằng kỹ thuật, thiết kế kiến trúc hệ thống mobile, web, CSDL,...</li><li>Chịu trách nhiệm về các tài liệu kiến trúc, coding convention, hướng dẫn developer thiết kế chi tiết chức năng.</li><li>Chịu trách nhiệm đánh giá các công nghệ, các components, kỹ thuật phát triển, phương thức phát triển, tích hợp hệ thống,</li><li>Hướng dẫn các developer thực hiện công việc hàng ngày một cách hiệu quả.</li><li>Làm việc với các nguồn dữ liệu bên ngoài và API</li><li>Tham gia sửa lỗi và cải thiện hiệu suất ứng dụng</li><li>Huấn luyện các thành viên nhóm để đạt được hiệu suất tối đa</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Bằng cử nhân máy tính hoặc liên quan</li><li>Có ít nhất 3 năm kinh nghiệm hoặc tương đương</li><li>Ngôn ngữ, công nghệ: AND/OR React-native, NodeJS, Java, Objective-C, NodeJs, ReactJS, React-Native, Redux, SQL, No-SQL, Restfull API, Flutter.</li><li>Có kiến thức vững chắc về data, cloud.</li><li>Có kiến thức vững chắc về vòng đời phát triển phần mềm, kiến trúc phát triển di động,</li><li>Có kiến thức vững chắc về kỹ thuật tối ưu hóa</li><li>Tiếng Anh tốt</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Java Developer | 13th-Month Bonus",
+    "logoImage": "https://cdn.itviec.com/employers/open-web-technology/logo/w170/E64hTPwLTthY1vc7Pgex1f2u/10462543_10152450530079029_2215983333105327449_n.jpg",
+    "address": "10B Nguyen Chi Thanh, Hai Chau, Da Nang",
+    "tags": ["Java", "OOP", "Spring"],
+    "description": [],
+    "content": [
+      "<ul><li>Minimum 3 years' experience in Software Development in overall, and specifically at least 1-year’ experience with Spring Framework</li><li>Java core proficiency is expected (and of course should already be satisfied by experience criteria)</li><li>Good at logical thinking, fluent in algorithmic programming</li><li>Fluent with OOP, design pattern and have practical experience with work-related projects</li><li>Ability to work independently as well as good team player, maintain good performance under high pressure</li><li>You know and can work with HTML/CSS/Jquery basic if needed</li></ul>",
+      "<ul><li>Strong team spirit, transparent communication, and self-management</li><li>Quest for constant learning (new technologies)</li><li>Passion for Digital Technologies</li></ul>",
+      "<ul><li>Ability to work for and in a team</li><li>Autonomous worker, able to work independently</li><li>Flexibility and motivation, the quest for constant learning</li><li>Excellent problem solving and debugging skill</li></ul>"
+    ]
+  },
+  {
+    "name": "NLP Developer",
+    "logoImage": "https://cdn.itviec.com/employers/em-ai/logo/w170/Bcf1J68QwDs7WbgDRfeZR3Yx/new-emandai-logo%20(1)-07112019.png",
+    "address": "30 Nguyen Huu Tho, Hai Chau, Da Nang",
+    "tags": ["Python", "C language", "Java"],
+    "description": [],
+    "content": [
+      "<ul><li>Tốt nghiệp Đại học chính quy các chuyên ngành Kỹ thuật như Công nghệ thông tin, Khoa học máy tính, Toán – tin, Điện tử viễn thông,…</li><li>Có tối thiểu 02 năm kinh nghiệm về Machine learning</li><li>Trải nghiệm với các thuật toán Machine Learning (SVM, DNN, RNN ...)</li><li>Có kinh nghiệm làm việc với các task về NLP như Text Classification, Sentiment analysis hoặc Name Entity Recognition là một điểm cộng</li><li>Có kinh nghiệm lập trình một trong các loại ngôn ngữ: Python, C/C++, Java,…</li><li>Biết sử dụng một trong các thư viện Machine Learning như Tensorflow, Keras, PyTorch.</li><li>Kiến thức tốt về thống kê, đại số tuyến tính và thuật toán</li><li>Có kỹ năng tốt để đọc hiểu các thuật toán có sẵn trong các tài liệu tham khảo (các sách chuyên ngành và các bài báo khoa học).</li><li>Có tư duy giải quyết vấn đềtốt.</li><li>Có khả năng tự nghiên cứu để có thể đưa ra những thuật toán khả thi, tối ưu và mới nhằm giải quyết những bài toán phức tạp.</li></ul>"
+    ]
+  },
+  {
+    "name": "Software Developer (Java)",
+    "logoImage": "https://cdn.itviec.com/employers/qa-systems-gmbh/logo/w170/7juF5gdkAk1kTndhFgVQDKd3/logo.png",
+    "address": "., Hai Chau, Da Nang",
+    "tags": ["Java", "C++", "C language"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "Gameplay Programmer - AAA Next Gen",
+    "logoImage": "https://cdn.itviec.com/employers/ubisoft/logo/w170/h2KNqoC1c2gPK4w9ghn4F6E9/0.png",
+    "address": "Luxury Buildinng - Floor 6, 205 Tran Phu, Phuoc Ninh, Hai Chau, Da Nang",
+    "tags": ["Unity", "C#", "Games"],
+    "description": [
+      "<ul><li>Be involved with rapid prototyping of new gameplay features</li><li>Implement game features according to design spec in close partnership with the content team of the project</li><li>Create, debug, maintain, and optimize the game’s engine, editor, and related tools used for the game’s development.</li><li>Offer technical solutions, innovate and improve the quality of implementation, performance, and usability of the editor, tools, and toolchain as a whole</li><li>Improve existing game features based on design requests</li><li>Create designer-facing workflow to facilitate rapid iteration</li><li>Write technical design documents, for milestones and internal use.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>3+ years professional experience in game development focused on gameplay</li><li>Prefer hands-on experience with Unity3D engine (editor and scripting, animation trees, creating plug-ins a plus)</li><li>Solid knowledge of C# and its related structures, design patterns and methodologies</li><li>A strong “mental toolbox” of techniques, tricks and methods for achieving different types of gameplay mechanics.</li><li>Availability to work with new APIs and concepts</li><li>Experience with Photon or other long-connection real-time multiplayer technologies (such as Websockets/Socket.io) a plus</li><li>Some understanding of 3D math (matrices, vectors, quaternions)</li><li>Able and interested to work a “rapid iteration” development environment</li><li>Able to communicate effectively with both technical and non-technical parties</li></ul>"
+    ]
+  },
+  {
+    "name": "Senior Technical Artist (Unity)",
+    "logoImage": "https://cdn.itviec.com/employers/ubisoft/logo/w170/h2KNqoC1c2gPK4w9ghn4F6E9/0.png",
+    "address": "Luxury Buildinng - Floor 6, 205 Tran Phu, Phuoc Ninh, Hai Chau, Da Nang",
+    "tags": ["Unity", "Games"],
+    "description": [],
+    "content": []
+  },
+  {
+    "name": "Senior Gameplay Server Programmer",
+    "logoImage": "https://cdn.itviec.com/employers/ubisoft/logo/w170/h2KNqoC1c2gPK4w9ghn4F6E9/0.png",
+    "address": "Luxury Buildinng - Floor 6, 205 Tran Phu, Phuoc Ninh, Hai Chau, Da Nang",
+    "tags": ["C#", "JavaScript", "NodeJS"],
+    "description": [
+      "<ul><li>Develop the backend and client-side logic for realtime multiplayer social-quality games</li><li>Develop &amp; support online services, integrate them into studio’s products</li><li>Ensure server software scalable to support a high number of concurrent users</li><li>Stay current on latest techniques and technologies of online programming including dead reckoning interpolation methodologies, latency robustness, etc.</li><li>Create and maintain the game structure, persistency, communication and logic</li><li>Constantly profile and optimize the server architecture, code, data structure, bandwidth, and memory and CPU usage</li><li>Collaborate with development team to test and improve security-relevant components</li><li>Design and optimize client/Server Communication</li><li>Act as a responder to issues in the live environment</li><li>Take initiative to improve coding quality guidelines, tools and methods, including unit testing, code analysis, build systems automation, deployment automation etc.</li><li>Build an experience that unifies web and mobile</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Strong skills with C#, Javascript, Python, other languages a plus</li><li>Experience with one or more backend environments—NodeJS strongly desired.</li><li>2+ years of experience in a similar role (real-time game server programming)</li><li>Experience with client / server communication protocols such as Socket.io / Websockets (TCP/IP, UDP, etc)</li><li>Solid math background a plus</li><li>Ability come up with creative solutions (including gameplay-related) to solve net latency issues.</li><li>Experience with RESTful style interfaces</li><li>Proficiency with web-service architectures, technologies and security concepts</li><li>Working knowledge of multiplayer debugging &amp; optimization tools and techniques</li><li>Knowledge of web programming - issues, frameworks and languages a plus</li></ul>"
+    ]
+  },
+  {
+    "name": "Java Hybris Developer (SAP, Spring)",
+    "logoImage": "https://cdn.itviec.com/employers/nfq-asia/logo/w170/wSqDe722rToJQ6oXH3Yc8QJZ/nfq-asia-8bit-rockstars-logo.png",
+    "address": "72 Lê Thánh Tôn, District 1, Ho Chi Minh",
+    "tags": ["Java", "SAP", "Spring"],
+    "description": [
+      "<ul><li>Work with super nice clients, make sure that we understand their needs, and deliver their dreams.</li><li>As a central point of contact with our foreign clients, you will have a significant influence on our company’s success by using your excellent English communication skills, your head, and common sense.</li><li>Collaborate with clients/business users to research and validate functional requirements</li><li>Collaborate with team members throughout the Software Development Life Cycle process using Agile methodologies for requirements gathering, feedback on proposed designs and models</li><li>Develop and maintain E-commerce web applications for the global market</li><li>Proven leadership skills. Your management skills and technical depth allows you to develop and mentor others as well as build credibility with your team while executing broader engineering strategies.</li></ul>"
+    ],
+    "content": [
+      "<ul><li>Experience with Hybris 6.x with knowledge of Hybris B2C-ACCELERATOR/HYBRIS -B2B-ACCELERATOR, Hybris back- office, Hybris Frontend WCMS cockpit, product cockpit, Hybris, Hybris core, Hybris Commerce, Hybris Search, Hybris OCC, Slor Customization</li><li>Experience working on core Java, JSP/Servlets, JEE, Spring, Services (SOAP, REST), Design Patterns, Apache, Tomcat, Build Tools- Ant/Maven/Jenkins, SCM Tools - CVS/SVN/GIT Hub</li><li>Knowledge of one or more modules HYBRIS-PIM, HYBRIS-PROMOTIONS, HYBRIS-OMS, HYBRIS -TRAVEL-ACCELERATOR</li><li>Additional skills in SOA, ESB, JMS</li><li>Knowledge of high-quality professional software engineering practices for agile software development cycle, including coding standards, code reviews, source control management, build processes, testing, and deployment</li><li>Fundamental knowledge of design patterns.</li><li>Passionate about building great solutions</li><li>Mentoring the team members to meet the clients needs and holding them accountable for high standards of delivery</li><li>Being able to understand and relate technology integration scenarios and be able to apply these learnings in complex troubleshooting scenarios</li></ul>"
+    ]
+  }
+]

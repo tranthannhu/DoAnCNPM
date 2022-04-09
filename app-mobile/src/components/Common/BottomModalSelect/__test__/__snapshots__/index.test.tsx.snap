@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BottomModalSelect should render without issues 1`] = `
+<View
+  testID="BottomModalSelect"
+/>
+`;

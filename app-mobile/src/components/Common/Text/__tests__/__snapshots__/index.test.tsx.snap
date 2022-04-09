@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Component should render without issues 1`] = `
+<Themed.Text
+  style={
+    Object {
+      "color": "#5760EB",
+      "fontSize": 16,
+    }
+  }
+/>
+`;

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuickView Component should render without issues 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": undefined,
+      "alignSelf": undefined,
+      "backgroundColor": undefined,
+      "borderBottomLeftRadius": undefined,
+      "borderBottomRightRadius": undefined,
+      "borderRadius": 0,
+      "borderTopLeftRadius": undefined,
+      "borderTopRightRadius": undefined,
+      "bottom": undefined,
+      "flex": undefined,
+      "flexDirection": "column",
+      "height": undefined,
+      "justifyContent": undefined,
+      "left": undefined,
+      "margin": undefined,
+      "marginBottom": undefined,
+      "marginHorizontal": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": undefined,
+      "padding": undefined,
+      "paddingBottom": undefined,
+      "paddingHorizontal": undefined,
+      "paddingLeft": undefined,
+      "paddingRight": undefined,
+      "paddingTop": undefined,
+      "paddingVertical": undefined,
+      "position": undefined,
+      "right": undefined,
+      "top": undefined,
+      "width": undefined,
+    }
+  }
+/>
+`;

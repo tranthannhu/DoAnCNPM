@@ -1,0 +1,76 @@
+{
+  "exception": {
+    "400": "Invalid Input",
+    "401": "Email or password is incorrect",
+    "403": "Forbidden",
+    "404": "Cannot find Item",
+    "500": "Something went wrong. Please try again later",
+    "409": "Email already Exists"
+  },
+  "common": {
+    "theme": "Theme",
+    "language": "Language"
+  },
+  "bottom_tab": {
+    "home": "Home",
+    "saved": "Saved",
+    "mail": "Mail",
+    "more": "More",
+    "myjob": "My Jobs",
+    "explore": "Explore"
+  },
+  "header": {
+    "setting": "Setting",
+    "example": "Component List Example"
+  },
+  "auth": {
+    "login": "Login",
+    "login_mobile": "Login with Mobile",
+    "input_email_address": "Email Address *",
+    "input_password": "Password *",
+    "input_first_name": "First Name *",
+    "input_last_name": "Last Name *",
+    "input_user": "User Name *",
+    "input_email": "Email *",
+    "forgot": "Forgot Password?",
+    "register": "Register",
+    "logout": "Logout",
+    "or": "or",
+    "facebook": "Sign In with Facebook",
+    "google": "Sign In with Google",
+    "have_account": "Don't have an account?",
+    "already_account": "Already have an account?",
+    "description_forgot": "Enter your account email address and we'll send instructions on how to reset your password",
+    "button_login_mobile": "Get Code",
+    "title_verify": "Verify Your Account",
+    "get_back_verify": "get back OTP?",
+    "send_verify": "send for me",
+    "button_verify": "Verify Now",
+    "fill_verify_otp": "Please validate OTP",
+    "success_verify_otp": "verified!",
+    "resend_otp": "Resend verification code?",
+    "checked": "remember me ",
+    "create": "Do not have an account?",
+    "terms": "I agree with terms and licenses"
+  },
+  "profile": {
+    "experience": "Work Experience",
+    "skill": "SKills"
+  },
+  "home": {},
+  "validator": {
+    "email": "E-Mail does not appear to be valid!",
+    "password": "Password must be between 6 and 20 characters!",
+    "first_name": "First Name must be between 1 and 32 characters!",
+    "last_name": "Last Name must be between 1 and 32 characters!",
+    "username": "User Name must be alpha or number and between 8 and 20 characters!",
+    "password_old": "Password old must fill",
+    "password_confirm": "Confirm Password must same New Password!",
+    "phone": "Phone number does not appear to be valid!",
+    "user_email": "Must fill value is email or username",
+    "name": "Must fill this field!",
+    "message": "Must fill this field!",
+    "title": "Must fill this field!",
+    "content": "Must fill this field!"
+  }
+}

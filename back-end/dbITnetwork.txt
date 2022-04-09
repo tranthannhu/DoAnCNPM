@@ -1,0 +1,6 @@
+--SQL Server--
+host: itnetwork.viewdns.net
+port: 1433
+username: danh
+password: 123456789
+database: itnetwork

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar Component should render without issues 1`] = `
+<Themed.Avatar
+  containerStyle={
+    Object {
+      "margin": undefined,
+      "marginBottom": undefined,
+      "marginHorizontal": undefined,
+      "marginLeft": undefined,
+      "marginRight": undefined,
+      "marginTop": undefined,
+      "marginVertical": undefined,
+    }
+  }
+  overlayContainerStyle={
+    Object {
+      "backgroundColor": undefined,
+    }
+  }
+/>
+`;
